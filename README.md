@@ -1,5 +1,7 @@
->[http://wowubuntu.com/markdown/#list]
-[http://sspai.com/25137
+>从[http://wowubuntu.com/markdown/#list]引用
+
+[http://sspai.com/25137]
+
 [http://daringfireball.net/projects/markdown/syntax#philosophy]
 概述
 
