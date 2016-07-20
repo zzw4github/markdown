@@ -1,8 +1,8 @@
->从[http://wowubuntu.com/markdown/#list]引用
+>来源[http://wowubuntu.com/markdown/#list]
 
-[http://sspai.com/25137]
+http://sspai.com/25137
 
-[http://daringfireball.net/projects/markdown/syntax#philosophy]
+http://daringfireball.net/projects/markdown/syntax#philosophy
 概述
 
 宗旨
